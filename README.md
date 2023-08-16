@@ -42,3 +42,15 @@ For any questions or feedback, you can reach out to me at matthewlewis2@proton.m
 Enjoy using gromfetch!
 
 ![image](https://github.com/Edx-X11/Gromfetch/assets/142403504/b08e62a9-b4bf-466f-86e1-f548d746b497)
+
+
+Install Required Dependencies:
+Arch Linux:
+sudo pacman -Syu     # Update system packages
+sudo pacman -S git cmake gcc
+
+Ubuntu:
+sudo apt update
+sudo apt install git cmake gcc
+
+it should run on any linux distro without error. 
