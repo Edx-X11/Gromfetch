@@ -7,7 +7,7 @@
 1. Clone the repository to your local machine:
 
   git clone https://github.com/Edx-X11/Gromfetch
-Replace your-username with your GitHub username.
+
 
 Build the executable:
 cd gromfetch
