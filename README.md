@@ -1,3 +1,4 @@
+[![CMake on a single platform](https://github.com/Edx-X11/Gromfetch/actions/workflows/cmake-single-platform.yml/badge.svg)](https://github.com/Edx-X11/Gromfetch/actions/workflows/cmake-single-platform.yml)
 # gromfetch
 
 `gromfetch` is a command-line tool written in C that displays system information, including details about the operating system, CPU, memory, GPU, and uptime. It is inspired by the popular tool Neofetch.
